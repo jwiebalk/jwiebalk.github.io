@@ -92,3 +92,9 @@ nav li.active {
   margin-left: 40px;
   padding-left: 40px;
 }
+.comptia {
+  float: none;
+  position: relative;
+  width: 20%;
+  height: 20%;
+}
